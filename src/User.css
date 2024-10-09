@@ -1,0 +1,70 @@
+/* General Styles */
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f9f9f9;
+}
+
+.free-trial h2 {
+  font-weight: bold;
+}
+
+.free-trial p {
+  color: #6c757d;
+}
+
+.signup-form {
+  max-width: 400px;
+}
+
+.form-control {
+  border-radius: 8px;
+}
+
+.signup-form button {
+  width: 100%;
+}
+
+/* Footer Styles */
+.footer {
+  background-color: #343a40;
+  color: #fff;
+}
+
+.footer h5,
+.footer h6 {
+  color: #fff;
+}
+
+.footer a {
+  color: #adb5bd;
+  text-decoration: none;
+}
+
+.footer a:hover {
+  color: #fff;
+}
+
+.footer .social-icons a {
+  color: #fff;
+  margin: 0 10px;
+}
+
+.social-icons i {
+  font-size: 20px;
+}
+
+/* Buttons */
+.btn-primary {
+  background-color: #007bff;
+  border: none;
+}
+
+.btn-outline-primary {
+  border: 1px solid #007bff;
+  color: #007bff;
+  background-color: transparent;
+}
+
+.footer{
+  background-color: black;
+}
